@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kirubakarankathirvel
+ *
+ */
+module TestJavaClass {
+}
